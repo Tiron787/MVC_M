@@ -4,7 +4,7 @@ error_reporting(E_ALL);
 ini_set('display_errors', 1);
 
 require 'database/queryBuilder.php';
-require 'components/auth.php';
+require 'components/auth.php'; /////test git
 //auth
 //register()//login()
 ////logout()
